@@ -37,9 +37,3 @@ To use the system:
 1. Power on the robot with the Arduino and ESP8266 modules.
 2. Ensure the MQTT broker is running on your Raspberry Pi or similar device.
 3. Use MQTT client software to publish commands to the robot and subscribe to its telemetry data.
-
-## Contributing
-Your contributions to improve or extend the functionality of this project are welcome. Please submit pull requests or open issues for bug reports or feature suggestions.
-
-## License
-This project is open-source and available for use under the MIT License.
